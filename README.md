@@ -1,4 +1,3 @@
-#chat-analyser
 This is a data analytics project that makes use of pandas, numpy, matplotlib python libraries to analyse the user's whatsapp chat that is exported and uploaded. This app works both for group and personal chats. Analysis of group members can be done individually too.
 It has the following functionalities:
 1. Gives the statistics like total messages,words,media and links shared.
